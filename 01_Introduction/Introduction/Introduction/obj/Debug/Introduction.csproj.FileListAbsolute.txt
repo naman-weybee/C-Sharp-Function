@@ -1,0 +1,7 @@
+D:\.NET\CsharpFunction\01_Introduction\Introduction\Introduction\bin\Debug\Introduction.exe.config
+D:\.NET\CsharpFunction\01_Introduction\Introduction\Introduction\bin\Debug\Introduction.exe
+D:\.NET\CsharpFunction\01_Introduction\Introduction\Introduction\bin\Debug\Introduction.pdb
+D:\.NET\CsharpFunction\01_Introduction\Introduction\Introduction\obj\Debug\Introduction.csproj.AssemblyReference.cache
+D:\.NET\CsharpFunction\01_Introduction\Introduction\Introduction\obj\Debug\Introduction.csproj.CoreCompileInputs.cache
+D:\.NET\CsharpFunction\01_Introduction\Introduction\Introduction\obj\Debug\Introduction.exe
+D:\.NET\CsharpFunction\01_Introduction\Introduction\Introduction\obj\Debug\Introduction.pdb

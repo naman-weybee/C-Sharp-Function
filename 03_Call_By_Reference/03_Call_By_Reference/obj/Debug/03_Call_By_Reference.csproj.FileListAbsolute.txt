@@ -1,0 +1,6 @@
+D:\.NET\CsharpFunction\03_Call_By_Reference\03_Call_By_Reference\bin\Debug\03_Call_By_Reference.exe.config
+D:\.NET\CsharpFunction\03_Call_By_Reference\03_Call_By_Reference\bin\Debug\03_Call_By_Reference.exe
+D:\.NET\CsharpFunction\03_Call_By_Reference\03_Call_By_Reference\bin\Debug\03_Call_By_Reference.pdb
+D:\.NET\CsharpFunction\03_Call_By_Reference\03_Call_By_Reference\obj\Debug\03_Call_By_Reference.csproj.CoreCompileInputs.cache
+D:\.NET\CsharpFunction\03_Call_By_Reference\03_Call_By_Reference\obj\Debug\03_Call_By_Reference.exe
+D:\.NET\CsharpFunction\03_Call_By_Reference\03_Call_By_Reference\obj\Debug\03_Call_By_Reference.pdb

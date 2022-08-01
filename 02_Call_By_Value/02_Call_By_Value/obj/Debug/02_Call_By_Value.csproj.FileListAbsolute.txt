@@ -1,0 +1,6 @@
+D:\.NET\CsharpFunction\02_Call_By_Value\02_Call_By_Value\bin\Debug\02_Call_By_Value.exe.config
+D:\.NET\CsharpFunction\02_Call_By_Value\02_Call_By_Value\bin\Debug\02_Call_By_Value.exe
+D:\.NET\CsharpFunction\02_Call_By_Value\02_Call_By_Value\bin\Debug\02_Call_By_Value.pdb
+D:\.NET\CsharpFunction\02_Call_By_Value\02_Call_By_Value\obj\Debug\02_Call_By_Value.csproj.CoreCompileInputs.cache
+D:\.NET\CsharpFunction\02_Call_By_Value\02_Call_By_Value\obj\Debug\02_Call_By_Value.exe
+D:\.NET\CsharpFunction\02_Call_By_Value\02_Call_By_Value\obj\Debug\02_Call_By_Value.pdb
